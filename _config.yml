@@ -25,13 +25,6 @@ social:
 baidu:
     id: 6c4eb304f3a1f35ed2ad79fd9c375e72
 
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3
-    host: auto
-
-
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
 #
